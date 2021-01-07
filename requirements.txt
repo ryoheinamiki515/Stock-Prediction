@@ -152,7 +152,7 @@ llvmlite==0.29.0
 locket==0.2.0
 losant-mqtt==1.2.0
 losant-rest==1.9.3
-lxml==4.4.1
+lxml==4.6.2
 macholib==1.14
 Markdown==3.1.1
 MarkupSafe==1.1.1
