@@ -1,7 +1,7 @@
 absl-py==0.8.1
 adal==1.2.2
 aenum==2.2.3
-aiohttp==3.6.2
+aiohttp==3.7.4
 alabaster==0.7.12
 alpha-vantage==2.1.2
 altgraph==0.17
